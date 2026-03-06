@@ -1,0 +1,91 @@
+{
+  "Employee": [
+    {
+      "id": "43ce",
+      "name": "Aryan",
+      "email": "bhattiaryan777@gmail.com",
+      "role": "Employee",
+      "department": "IT"
+    },
+    {
+      "id": "c67d",
+      "name": "pawan",
+      "email": "pawan@123",
+      "role": "Employee",
+      "department": "IT"
+    },
+    {
+      "id": "370d",
+      "name": "Vikram",
+      "email": "vikram@gmail.com",
+      "role": "Employee",
+      "department": "IT"
+    }
+  ],
+  "Employee_Details": [
+    {
+      "id": "7681",
+      "fname": "Aryan",
+      "lname": "Bhatti",
+      "age": "18",
+      "password": "Aryansain7777",
+      "email": "bhattiaryan777@gmail.com",
+      "role": "Employee"
+    },
+    {
+      "id": "85eb",
+      "fname": "pawan",
+      "lname": "Bhatti",
+      "age": "28",
+      "password": "pummy123",
+      "email": "pawan@123",
+      "role": "Employee"
+    },
+    {
+      "id": "8d4a",
+      "fname": "Vikram",
+      "lname": "Gujjar",
+      "age": "18",
+      "password": "vikram23",
+      "email": "vikram@gmail.com",
+      "role": "Employee"
+    }
+  ],
+  "Leaves": [
+    {
+      "id": "acad",
+      "days": "3",
+      "reason": "going to native place",
+      "status": "rejected",
+      "email": "bhattiaryan777@gmail.com"
+    },
+    {
+      "id": "332f",
+      "days": "3",
+      "reason": "going to native place",
+      "status": "rejected",
+      "email": "pawan@123"
+    },
+    {
+      "id": "ba4d",
+      "days": "2",
+      "reason": "going to native place",
+      "status": "approved",
+      "email": "pawan@123"
+    },
+    {
+      "id": "ccc0",
+      "days": "",
+      "reason": "",
+      "status": "rejected",
+      "email": "bhattiaryan777@gmail.com"
+    },
+    {
+      "id": "5f59",
+      "days": "8",
+      "reason": "going to native place",
+      "status": "approved",
+      "email": "bhattiaryan777@gmail.com"
+    }
+  ]
+}
