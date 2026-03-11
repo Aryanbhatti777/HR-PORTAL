@@ -80,6 +80,10 @@ input,select{
   margin: 10px auto;
 }
 
+input[type="radio"]{
+  width: 100px;
+}
+
 form{
   padding:15px;
   border: 2px solid black;
