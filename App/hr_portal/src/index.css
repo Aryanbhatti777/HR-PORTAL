@@ -69,6 +69,10 @@ h2{
   margin: 50px;
 }
 
+.note{
+  color: red;
+}
+
 label{
   width: 100px;
   float: left;
@@ -89,6 +93,8 @@ form{
   border: 2px solid black;
   border-radius: 8px;
   background-color: #646cff;
+  max-width: 500px;
+  margin: 0px auto;
 }
 body {
   margin: 0;

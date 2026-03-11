@@ -32,6 +32,10 @@ function Login(){
         <>
         <h2>Login page</h2>
 
+        <h4 className="note">
+      The application will work when the json server is running . GO inside the server folder  , go to cmd and run <em>json-server db.json</em>. This application is build with some hard coding , if you wanna login as HR then credentials should be "hr@gmail.com" and "hr123". In HR dashboard you can add employee and then go to sign up.
+     </h4>
+
         <form onSubmit={HandleLogin}>
             <label>Email:</label> <br />
             <input type="email" name="email" value={email} onChange={(e)=> setEmail(e.target.value)}  required/>

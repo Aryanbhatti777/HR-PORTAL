@@ -20,6 +20,13 @@
       "email": "vikram@gmail.com",
       "role": "Employee",
       "department": "IT"
+    },
+    {
+      "id": "f0bc",
+      "name": "sahil",
+      "email": "sahil@gmail.com",
+      "role": "Employee",
+      "department": "IT"
     }
   ],
   "Employee_Details": [
@@ -48,6 +55,15 @@
       "age": "18",
       "password": "vikram23",
       "email": "vikram@gmail.com",
+      "role": "Employee"
+    },
+    {
+      "id": "7ef7",
+      "fname": "sahil",
+      "lname": "chhimpa",
+      "age": "19",
+      "password": "sahil123",
+      "email": "sahil@gmail.com",
       "role": "Employee"
     }
   ],
@@ -93,6 +109,13 @@
       "reason": "going to native place",
       "status": "approved",
       "email": "pawan@123"
+    },
+    {
+      "id": "744d",
+      "days": "1",
+      "reason": "going to native place",
+      "status": "approved",
+      "email": "sahil@gmail.com"
     }
   ]
 }
